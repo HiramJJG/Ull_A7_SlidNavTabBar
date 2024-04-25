@@ -1,19 +1,8 @@
 # Ull_A7_SlidNavtabBar
+Trabajo Terminado
 
-A new Flutter project created with FlutLab - https://flutlab.io
-
-## Getting Started
-
-A few resources to get you started if this is your first Flutter project:
-
-- https://flutter.dev/docs/get-started/codelab
-- https://flutter.dev/docs/cookbook
-
-For help getting started with Flutter, view our
-https://flutter.dev/docs, which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-## Getting Started: FlutLab - Flutter Online IDE
-
-- How to use FlutLab? Please, view our https://flutlab.io/docs
-- Join the discussion and conversation on https://flutlab.io/residents
+![image](https://github.com/HiramJJG/Ull_A7_SlidNavTabBar/assets/144726165/848bd62d-5bed-4828-b099-ba6025ee23f7)
+![image](https://github.com/HiramJJG/Ull_A7_SlidNavTabBar/assets/144726165/d9bd0c4f-3282-46f5-b361-126ec6d2c894)
+![image](https://github.com/HiramJJG/Ull_A7_SlidNavTabBar/assets/144726165/d9ce2588-4052-44b3-aa9c-f056fa54a9f4)
+![image](https://github.com/HiramJJG/Ull_A7_SlidNavTabBar/assets/144726165/5e99ad7f-381a-4ddb-9450-053d237bcd22)
+![image](https://github.com/HiramJJG/Ull_A7_SlidNavTabBar/assets/144726165/06420255-de45-4f8a-95b7-834caca1b027)
