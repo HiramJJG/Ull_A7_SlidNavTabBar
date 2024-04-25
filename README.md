@@ -1,5 +1,7 @@
 # Ull_A7_SlidNavtabBar
 Trabajo Terminado
+Link de referencia:https://youtu.be/AsjRFfzEJ4g?si=Wt5d3BVwGZtMlwx_
+
 
 ![image](https://github.com/HiramJJG/Ull_A7_SlidNavTabBar/assets/144726165/848bd62d-5bed-4828-b099-ba6025ee23f7)
 ![image](https://github.com/HiramJJG/Ull_A7_SlidNavTabBar/assets/144726165/d9bd0c4f-3282-46f5-b361-126ec6d2c894)
